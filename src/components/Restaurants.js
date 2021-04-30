@@ -10,6 +10,7 @@ class Restaurants extends Component {
     return (
       <div>
         <ul>
+          <h1>Restaurants</h1>
           {restaurants}
         </ul>
       </div>
